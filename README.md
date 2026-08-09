@@ -1,6 +1,6 @@
 # Power Plant NO₂ Emission Estimation Using TROPOMI Data
 
-This MATLAB project estimates **NO₂ emissions** from power plants using **TROPOMI satellite measurements** and **ERA5 meteorological data**.  
+This project estimates **NO₂ emissions** from power plants using **TROPOMI satellite measurements** and **ERA5 meteorological data**.  
 The workflow includes pre-processing satellite measurements, aligning emission plumes with wind direction, and estimating NO₂ emissions using one or more modeling methods.
 
 ---
